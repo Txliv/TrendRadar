@@ -59,6 +59,14 @@ Microsoft
 NVIDIA
 黄仁勋
 
+内存
+
+显存
+
+固态
+
+显卡
+
 AMD
 
 谷歌
